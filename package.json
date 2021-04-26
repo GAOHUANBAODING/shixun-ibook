@@ -1,0 +1,23 @@
+{
+  "name": "shixun-ibook",
+  "version": "1.0.0",
+  "description": "&nbsp;***一些有用的学习网站汇总。 ***",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAOHUANBAODING/shixun-ibook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GAOHUANBAODING/shixun-ibook/issues"
+  },
+  "homepage": "https://github.com/GAOHUANBAODING/shixun-ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
